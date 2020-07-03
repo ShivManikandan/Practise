@@ -1,0 +1,20 @@
+[filesystem "Oracle Corporation|10.0.2|-156411868"]
+	timestampResolution = 4987 microseconds
+	minRacyThreshold = 0 nanoseconds
+[user]
+	name = Manikandan Sivaraman
+	email = shivmanikandan@gmai.com
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+	lg = log
+	cb = checkout -b
+	cm = commit
+	cmm = commit -m
+[core]
+	ignorecase = false
+	autocrlf = true
+	whitespace = cr-at-eol
+        editor = notepad
